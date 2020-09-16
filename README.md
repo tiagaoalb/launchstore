@@ -1,0 +1,1 @@
+# Este repositório contém o projeto LaunchStore inacabado e com alguns bugs.
